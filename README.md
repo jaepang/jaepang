@@ -1,5 +1,5 @@
 # Hi.
-my name is `Jaekwang Shin`, and my nickname is `jaepang`.   
+My name is `Jaekwang Shin`, and my nickname is `jaepang`.   
 I'm working ~rocked~ on Republic of Korea Army currently, but going to quit on December.   
 My dream is to become positive influencer through my `code`.   
 I'm currently learning `CS`, `frontend` and have interest in `ML` or `full stack`.
