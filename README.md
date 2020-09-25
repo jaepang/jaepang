@@ -6,6 +6,9 @@ I'm currently learning `CS`, `frontend` and have interest in `ML` or `full stack
 
 ### Contact Me!
 jake_king@kakao.com
+
+### Stat
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaepang)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jaepang/jaepang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
