@@ -1,8 +1,7 @@
 # Hi.
-My name is `Jaekwang Shin`, and my nickname is `jaepang`.   
-I'm working ~rocked~ on Republic of Korea Army currently, but going to quit on December.   
+My name is `Jaekwang Shin`, and my nickname is `jaepang`.     
 My dream is to become positive influencer through my `code`.   
-I'm currently learning `CS`, `frontend` and have interest in `ML` or `full stack`.
+I'm currently learning `Computer Science`, `web-frontend` and have interest in `web-full stack`.
 
 ### Contact Me!
 jake_king@kakao.com
